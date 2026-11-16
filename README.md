@@ -119,10 +119,6 @@ Construo e opero **plataformas SaaS multi-tenant** onde erro custa dinheiro: con
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=hyansx&theme=tokyonight&hide_border=true&locale=pt_BR" width="49%" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=hyansx&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hyansx/hyansx/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hyansx/hyansx/output/github-snake.svg" />
